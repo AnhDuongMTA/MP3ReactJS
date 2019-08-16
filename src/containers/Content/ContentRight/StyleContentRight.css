@@ -1,0 +1,16 @@
+.private-for-you{
+    background-image: url("https://static-zmp3.zadn.vn/skins/zmp3-v5.1/images/discover_background.png") ;
+    background-repeat : no-repeat;
+}
+.anh-nhac-hot{
+    width: 300px;
+    height: 90px;
+}
+.nhac-hot{
+    margin-top: 15px;
+}
+.tittle-music-relax{
+    font-size: 26px;
+    color: #800080;
+    font-weight: 300;
+}

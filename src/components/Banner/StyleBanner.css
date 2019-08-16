@@ -1,0 +1,10 @@
+.banner-image{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    margin: 15px 0;
+}
+.no-gutters {
+    padding-right: 0;
+    padding-left: 0;
+  }

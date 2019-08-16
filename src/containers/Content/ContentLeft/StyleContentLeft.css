@@ -1,0 +1,92 @@
+.tittle-music-relax {
+  font-size: 26px;
+  color: #800080;
+  font-weight: 300;
+}
+.image-relax {
+  width: 100%;
+  height: auto;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.card-relax-sub2 .tittle-music-card-relax {
+  color: black;
+  font-size: 14px;
+  text-decoration: none;
+  line-height: unset !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.music-viet-hot{
+  border-right: 1px solid rgba(155, 153, 153, 0.582);
+}
+.card-relax {
+  width: 100%;
+}
+.card-relax-sub2 {
+  padding: 8px;
+}
+.music-viet-hot span {
+  margin-left: 15px;
+}
+.music-viet-new span {
+  margin-left: 15px;
+}
+.tittle-music-viet-hot {
+  font-size: 14px;
+}
+.singer-music-viet-hot {
+  font-size: 12px;
+}
+
+
+p {
+  margin: 0;
+}
+.box-music-viet {
+  display: flex;
+  align-items: center;
+}
+.image-music-viet{
+  width: 50px;
+  height: auto;
+}
+.music-name{
+  font-size: 14px;
+}
+.singer-name{
+  font-size: 12px;
+  text-decoration: none;
+}
+.box-music-top{
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.image-music-top{
+  width: 60px;
+  height: auto;
+}
+
+.box-content-music-top{
+  margin-left: 15px;
+}
+.stt-music-top{
+  font-size: 22px;
+  margin-right: 18px;
+}
+.line-music-top{
+  font-size: 22px;
+  margin-right: 18px;
+}
+.music-view{
+  text-align: right;
+}
+.music-top{
+  display: inline-block;
+}
